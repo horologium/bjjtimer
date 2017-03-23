@@ -1,1 +1,2 @@
 # bjjtimer
+## Simple proyect
